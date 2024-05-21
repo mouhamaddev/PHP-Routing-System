@@ -3,8 +3,8 @@
 This project provides a basic PHP routing framework for building web APIs. It defines routes for handling different API endpoints and facilitates request dispatching based on HTTP methods (GET, POST, etc.).
 
 ## Features
-    Flexible Routing: Define routes with HTTP methods for granular control.
-    Controller-Based Actions: Separate logic into reusable controller classes and methods.
+    - Flexible Routing: Define routes with HTTP methods for granular control.
+    - Controller-Based Actions: Separate logic into reusable controller classes and methods.
     Request Data Access: Retrieve request data from GET parameters or JSON payloads.
     Error Handling: Catch exceptions and return well-formatted error responses.
     Database Integration: Easily integrate with databases using external libraries like PDO.
